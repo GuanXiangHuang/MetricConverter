@@ -71,7 +71,6 @@ public class MetricConverter extends Application{
         GridPane.setConstraints(option8,0,8);
         GridPane.setConstraints(button8,1,8);
 
-        //Algorithms to get the conversion
         TextField initialValue = new TextField();
         initialValue.setPromptText("Initial value");
         GridPane.setConstraints(initialValue,1, 0);
